@@ -1,0 +1,712 @@
+[
+  {
+    "version": "0.8.47",
+    "original_filename": "CMS18TurboPrototype-0.8.47.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.47.zip",
+    "bytes": 2277547,
+    "sha256": "a0487c7720081834d79220dbf05ab03d1296408a57288eb2028af9603707ee76",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.47",
+    "description": "v0.8.47"
+  },
+  {
+    "version": "0.8.48",
+    "original_filename": "CMS18TurboPrototype-0.8.48.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.48.zip",
+    "bytes": 2278683,
+    "sha256": "db9548fb2500558ff6b12bc60dc81be87ec4acccd557daa2a7c080216708ad48",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/0.8.48",
+    "description": "v0.8.48"
+  },
+  {
+    "version": "0.8.49",
+    "original_filename": "CMS18TurboPrototype-0.8.49.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.49.zip",
+    "bytes": 2282303,
+    "sha256": "29a65a7b826c69c168bb62c267f6072132f88c417faf6c86d3cce446cc0bd0c3",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.49",
+    "description": "v0.8.49"
+  },
+  {
+    "version": "0.8.50",
+    "original_filename": "CMS18TurboPrototype-0.8.50.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.50.zip",
+    "bytes": 2282059,
+    "sha256": "86423780699ffbdec32ee6dcf69f7f562f0e6dec0027b9b9d50b92ff2f708a64",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.5",
+    "description": "v0.8.5"
+  },
+  {
+    "version": "0.8.51",
+    "original_filename": "CMS18TurboPrototype-0.8.51.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.51.zip",
+    "bytes": 2229651,
+    "sha256": "945f3deb03000ec939dbf72fe024d2c2d84a7c80dc557bc0d582e25d7290569c",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.51",
+    "description": "v0.8.51"
+  },
+  {
+    "version": "0.8.52",
+    "original_filename": "CMS18TurboPrototype-0.8.52.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.52.zip",
+    "bytes": 2695057,
+    "sha256": "127ba4d8cd1342b41dd5ac7f63760c0a211da6195d092f0d886d8ed6bcf966aa",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.52",
+    "description": "v0.8.52"
+  },
+  {
+    "version": "0.8.53",
+    "original_filename": "CMS18TurboPrototype-0.8.53.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.53.zip",
+    "bytes": 2703041,
+    "sha256": "cfcde1b4c272d5622ee9d9e9956e4a2abd57cc1794f6cd2ef1b13545c3a9ee62",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.53",
+    "description": "v0.8.53"
+  },
+  {
+    "version": "0.8.54",
+    "original_filename": "CMS18TurboPrototype-0.8.54.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.54.zip",
+    "bytes": 3172672,
+    "sha256": "637c37c40a51fd58fba5ea7045c0de5831f7cc6e993422ecc7152f4356fd3f16",
+    "location": "repository",
+    "download": "patches/CMS18TurboPrototype-0.8.54.zip",
+    "description": "Refines intake target selection and charge-pipe endpoints."
+  },
+  {
+    "version": "0.8.55",
+    "original_filename": "CMS18TurboPrototype-0.8.55.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.55.zip",
+    "bytes": 3640283,
+    "sha256": "11cda196bd66821383b15314dcf8bf1964bff21365e2fc05b842a0f03aed108a",
+    "location": "repository",
+    "download": "patches/CMS18TurboPrototype-0.8.55.zip",
+    "description": "Routes the charge pipe outboard while preserving outlet direction."
+  },
+  {
+    "version": "0.8.56",
+    "original_filename": "CMS18TurboPrototype-0.8.56.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.56.zip",
+    "bytes": 3154023,
+    "sha256": "31cb4c6b22b784439d3d9235b601d8b3148cb6ef719189188e59ee22052195ab",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.56",
+    "description": "v0.8.56"
+  },
+  {
+    "version": "0.8.57",
+    "original_filename": "CMS18TurboPrototype-0.8.57.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.57.zip",
+    "bytes": 3153837,
+    "sha256": "2eac2772cded4dc53027ffe3f0d5e51a05933bf78e8b97cf7958400517dc85f3",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.57",
+    "description": "v0.8.57"
+  },
+  {
+    "version": "0.8.58",
+    "original_filename": "CMS18TurboPrototype-0.8.58.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.58.zip",
+    "bytes": 3153889,
+    "sha256": "b3ba6031df3e79b5f5fa5f9dad1d1bd3ef02dc31e75d12bf5baa2a9e30207bba",
+    "location": "repository",
+    "download": "patches/CMS18TurboPrototype-0.8.58.zip",
+    "description": "Shortens the initial outlet handle for R4 pipe fitment."
+  },
+  {
+    "version": "0.8.59",
+    "original_filename": "CMS18TurboPrototype-0.8.59.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.59.zip",
+    "bytes": 3153840,
+    "sha256": "37e13b31d36f023a46ee739da626a2a1ce0ad0be03ccd53e262e57949c3ec9cb",
+    "location": "repository",
+    "download": "patches/CMS18TurboPrototype-0.8.59.zip",
+    "description": "Further reduces the outlet handle and pipe spacing."
+  },
+  {
+    "version": "0.8.60",
+    "original_filename": "CMS18TurboPrototype-0.8.60.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.60.zip",
+    "bytes": 3156631,
+    "sha256": "0722093dbe73fc0c76e7d100e6c4f295f35566be0577217d9d56a85f22dc1e4d",
+    "location": "repository",
+    "download": "patches/CMS18TurboPrototype-0.8.60.zip",
+    "description": "Uses visible renderer bounds and deeper intake-side insertion."
+  },
+  {
+    "version": "0.8.61",
+    "original_filename": "CMS18TurboPrototype-0.8.61.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.61.zip",
+    "bytes": 1405720,
+    "sha256": "b7e7924b04032c7bc2f93396fc856a16de73d6f5d514b9b30bc223cd615f3f1c",
+    "location": "repository",
+    "download": "patches/CMS18TurboPrototype-0.8.61.zip",
+    "description": "Historical dyno-spec boost experiment; later scoping defects reported."
+  },
+  {
+    "version": "0.8.62",
+    "original_filename": "CMS18TurboPrototype-0.8.62.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.62.zip",
+    "bytes": 1872651,
+    "sha256": "a6946e4c5a648063ace45c494691821bd670dd5383ba0bbd754c74e51a005076",
+    "location": "repository",
+    "download": "patches/CMS18TurboPrototype-0.8.62.zip",
+    "description": "Removes a dyno controller prerequisite; factory-output contamination later reported."
+  },
+  {
+    "version": "0.8.63",
+    "original_filename": "CMS18TurboPrototype-0.8.63.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.63.zip",
+    "bytes": 2342228,
+    "sha256": "76a507503527909859cfa7da98019bac0f0f6d33fcd06a5ee56094110056419d",
+    "location": "repository",
+    "download": "patches/CMS18TurboPrototype-0.8.63.zip",
+    "description": "Attempts measured-helper dyno scoping; constructor-hook failure later identified."
+  },
+  {
+    "version": "0.8.64",
+    "original_filename": "CMS18TurboPrototype-0.8.64.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.64.zip",
+    "bytes": 1407468,
+    "sha256": "72157a42f93ab4c7db554216c1da8b122b7841d94cee7935d369dafb5a02c7f9",
+    "location": "repository",
+    "download": "patches/CMS18TurboPrototype-0.8.64.zip",
+    "description": "Repairs constructor lookup and isolates hook-registration failures; later Mono follow-up needed."
+  },
+  {
+    "version": "0.8.65",
+    "original_filename": "CMS18TurboPrototype-0.8.65.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.65.zip",
+    "bytes": 1408712,
+    "sha256": "6d101c462472f3c1edef3e507f73adfba8e93803029cc215465814405d84b969",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.65",
+    "description": "v0.8.65"
+  },
+  {
+    "version": "0.8.66",
+    "original_filename": "CMS18TurboPrototype-0.8.66.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.66.zip",
+    "bytes": 1406957,
+    "sha256": "864161e0c297592560dcf43e1b05eb7b037728f30960983f1eb2167abd04d1e9",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.66",
+    "description": "v0.8.66"
+  },
+  {
+    "version": "0.8.67",
+    "original_filename": "CMS18TurboPrototype-0.8.67.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.67.zip",
+    "bytes": 1405737,
+    "sha256": "3686ce5d6a9d7e3f0212d80ab5c117cbc4e8b4da0518622122aeb613e5229d3a",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.67",
+    "description": "v0.8.67"
+  },
+  {
+    "version": "0.8.68",
+    "original_filename": "CMS18TurboPrototype-0.8.68.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.68.zip",
+    "bytes": 1405627,
+    "sha256": "ab484a5294a8103f4f3e85f4b383cf11ba18d385008a39803462cc9ba01f18e6",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.68",
+    "description": "v0.8.68"
+  },
+  {
+    "version": "0.8.69",
+    "original_filename": "CMS18TurboPrototype-0.8.69-final.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.69-final.zip",
+    "bytes": 1840649,
+    "sha256": "4f59b667f5200bb87338b009842de5d51a82eb7b7194b97eb2bea581a6e73a85",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.69",
+    "description": "v0.8.69"
+  },
+  {
+    "version": "0.8.70",
+    "original_filename": "CMS18TurboPrototype-0.8.70.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.70.zip",
+    "bytes": 1406807,
+    "sha256": "5f08c592186584e6a186d883d350d743145d7f0e28e7af6bf7471ab81fb4fbd7",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.70",
+    "description": "v0.8.70"
+  },
+  {
+    "version": "0.8.71",
+    "original_filename": "CMS18TurboPrototype-0.8.71.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.71.zip",
+    "bytes": 1408181,
+    "sha256": "c129590dbd52f0ca60a261b7839549f548900b203fdf8f286c26fb3584009e6f",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.71",
+    "description": "v0.8.71"
+  },
+  {
+    "version": "0.8.72",
+    "original_filename": "CMS18TurboPrototype-0.8.72.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.72.zip",
+    "bytes": 1416026,
+    "sha256": "fbe3fbf44e9d2834bcc6fc155503ef3de103e7ba4023ea86f06c55780faec326",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.72",
+    "description": "v0.8.72"
+  },
+  {
+    "version": "0.8.73",
+    "original_filename": "CMS18TurboPrototype-0.8.73.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.73.zip",
+    "bytes": 1413658,
+    "sha256": "05023c0bc8d3b8f1e3fbc77967da25a6b9e26a9ec3891c2dcdaa74e4e7d219d2",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.73",
+    "description": "v0.8.73"
+  },
+  {
+    "version": "0.8.74",
+    "original_filename": "CMS18TurboPrototype-0.8.74.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.74.zip",
+    "bytes": 2699963,
+    "sha256": "d6eb48cca1cc972012b4dea4fa2ef92389a481f2e7f2aec94d49106095a5e423",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.74",
+    "description": "v0.8.74"
+  },
+  {
+    "version": "0.8.75",
+    "original_filename": "CMS18TurboPrototype-0.8.75.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.75.zip",
+    "bytes": 3190592,
+    "sha256": "44491ea67f87a56a7190cf1b7e4e99ea420b54f89c14e430aab9e320f178d2f4",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.75",
+    "description": "v0.8.75"
+  },
+  {
+    "version": "0.8.76",
+    "original_filename": "CMS18TurboPrototype-0.8.76.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.76.zip",
+    "bytes": 3664431,
+    "sha256": "9ecd979ec53b39d00a15cfc02a289822fe93354313baf28e2e273a7203bb3198",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.76",
+    "description": "v0.8.76"
+  },
+  {
+    "version": "0.8.77",
+    "original_filename": "CMS18TurboPrototype-0.8.77.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.77.zip",
+    "bytes": 2630049,
+    "sha256": "a8ce8083d17231e0067ca58c9bfb49535b3f67b13b95e018c08b172a8e2684fe",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.77",
+    "description": "v0.8.77"
+  },
+  {
+    "version": "0.8.78",
+    "original_filename": "CMS18TurboPrototype-0.8.78.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.78.zip",
+    "bytes": 3103924,
+    "sha256": "952177c534a449f013ef5492b607430ebab74efff3ee657b9a82ed9e5e9f4c5c",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.78",
+    "description": "v0.8.78"
+  },
+  {
+    "version": "0.8.79",
+    "original_filename": "CMS18TurboPrototype-0.8.79.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.79.zip",
+    "bytes": 3578466,
+    "sha256": "a69e8ea1dd772e10b8068556c0036d2352f48236927b45db94a9d84945c5ec1b",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.79",
+    "description": "v0.8.79"
+  },
+  {
+    "version": "0.8.80",
+    "original_filename": "CMS18TurboPrototype-0.8.80.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.80.zip",
+    "bytes": 3108615,
+    "sha256": "a4afc7ca82943b274e59e3c8ca90c06d2b6bc95c919f8374879bfa60ebaa54a3",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.80",
+    "description": "v0.8.80"
+  },
+  {
+    "version": "0.8.81",
+    "original_filename": "CMS18TurboPrototype-0.8.81.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.81.zip",
+    "bytes": 973943,
+    "sha256": "7e6916cf07d51db96fde8a872e8fa8f74c968923e4d3c3d068b54852de8fdc60",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.81",
+    "description": "v0.8.81"
+  },
+  {
+    "version": "0.8.82",
+    "original_filename": "CMS18TurboPrototype-0.8.82.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.82.zip",
+    "bytes": 1003691,
+    "sha256": "68919e1dcf5bba736cf95d4e487fab37800a36b3b25230301bba6de33a022f9b",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.82",
+    "description": "v0.8.82"
+  },
+  {
+    "version": "0.8.83",
+    "original_filename": "CMS18TurboPrototype-0.8.83.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.83.zip",
+    "bytes": 1008485,
+    "sha256": "821fb63b45f41510136efb178bf15f10a6d873b907bff37e34553e195eb7b7a8",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.83",
+    "description": "v0.8.83"
+  },
+  {
+    "version": "0.8.84",
+    "original_filename": "CMS18TurboPrototype-0.8.84.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.84.zip",
+    "bytes": 1009329,
+    "sha256": "9e4f8d148dd98734a827e1f36c6953ca31d0c552930727382faa5b34e82c6db8",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.84",
+    "description": "v0.8.84"
+  },
+  {
+    "version": "0.8.85",
+    "original_filename": "CMS18TurboPrototype-0.8.85.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.85.zip",
+    "bytes": 1008556,
+    "sha256": "32489415d3fdff4a8eb2bbd7e1c3aaa2c389938628f283c226067200d334d167",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.85",
+    "description": "v0.8.85"
+  },
+  {
+    "version": "0.8.86",
+    "original_filename": "CMS18TurboPrototype-0.8.86.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.86.zip",
+    "bytes": 2202075,
+    "sha256": "7239dc610e41b7deb81679e2343a7f193af838385e810d5c3bda4b8929d19187",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.86",
+    "description": "v0.8.86"
+  },
+  {
+    "version": "0.8.87",
+    "original_filename": "CMS18TurboPrototype-0.8.87.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.87.zip",
+    "bytes": 2206827,
+    "sha256": "d5851a4818888e708c5557f6c710b6dc239430293ddfe49a6301ddd62f083a68",
+    "location": "existing release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.87",
+    "description": "v0.8.87"
+  },
+  {
+    "version": "0.8.88",
+    "original_filename": "CMS18TurboPrototype-0.8.88.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.88.zip",
+    "bytes": 2207624,
+    "sha256": "df21b199ad1a80a7090d36e67a83d105ad94af473f86b65de805c06311d76649",
+    "location": "repository",
+    "download": "patches/CMS18TurboPrototype-0.8.88.zip",
+    "description": "Historical ECU calibration schema and isolated map-sampling foundations."
+  },
+  {
+    "version": "0.8.89",
+    "original_filename": "CMS18TurboPrototype-0.8.89.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.89.zip",
+    "bytes": 3762501,
+    "sha256": "73e0c2de4fdc7992f4a66ea677fa87809aa3f001082d89f606fc3dd31b4aa7e7",
+    "location": "repository",
+    "download": "patches/CMS18TurboPrototype-0.8.89.zip",
+    "description": "Historical isolated ECU Lab simulation-equation port."
+  },
+  {
+    "version": "0.8.90",
+    "original_filename": "CMS18TurboPrototype-0.8.90.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.90.zip",
+    "bytes": 998026,
+    "sha256": "3389395d5741e426f609c194124e8c390f9ea892370b9e2eb5280e98b58eff0a",
+    "location": "repository",
+    "download": "patches/CMS18TurboPrototype-0.8.90.zip",
+    "description": "Historical ECU Lab radial action and profile unlock."
+  },
+  {
+    "version": "0.8.91",
+    "original_filename": "CMS18TurboPrototype-0.8.91.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.91.zip",
+    "bytes": 997969,
+    "sha256": "74f30fbff30fd2fe648925d3af4181169ca7ab8b448c12cf9291c152e1c19977",
+    "location": "repository",
+    "download": "patches/CMS18TurboPrototype-0.8.91.zip",
+    "description": "Historical Tune parts interception; superseded by native-route restoration."
+  },
+  {
+    "version": "0.8.92",
+    "original_filename": "CMS18TurboPrototype-0.8.92.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.92.zip",
+    "bytes": 2241626,
+    "sha256": "7de7913aa9694c345c77aa3e17f013ca8b19299bc6f70e3b05abc7e22033acd0",
+    "location": "repository",
+    "download": "patches/CMS18TurboPrototype-0.8.92.zip",
+    "description": "Restores native Tune parts and separates the historical ECU Lab action."
+  },
+  {
+    "version": "0.8.93",
+    "original_filename": "CMS18TurboPrototype-0.8.93.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.93.zip",
+    "bytes": 2259855,
+    "sha256": "6b97bb0a1292f8052dccfa268840f05b8f1461c2bbe7243134ac2ee8f4425802",
+    "location": "repository",
+    "download": "patches/CMS18TurboPrototype-0.8.93.zip",
+    "description": "Historical standalone turbo dependency validator; not native installation support."
+  },
+  {
+    "version": "0.8.94",
+    "original_filename": "CMS18TurboPrototype-0.8.94.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.94.zip",
+    "bytes": 2394707,
+    "sha256": "ae6f047999cd7c1fcf870a45007d73a24a8ba7207c7d0c336105a7cb8c713402",
+    "location": "repository",
+    "download": "patches/CMS18TurboPrototype-0.8.94.zip",
+    "description": "Preserves the car-parts radial menu and opens the historical sandbox with F9."
+  },
+  {
+    "version": "0.8.95",
+    "original_filename": "CMS18TurboPrototype-0.8.95.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.95.zip",
+    "bytes": 2403802,
+    "sha256": "6a10cbaab77fc4a336483f88e64d51fe9cffa845094f2fd189ea512f71c60dab",
+    "location": "repository",
+    "download": "patches/CMS18TurboPrototype-0.8.95.zip",
+    "description": "Historical automatic engine-identity display in the isolated sandbox."
+  },
+  {
+    "version": "0.8.96",
+    "original_filename": "CMS18TurboPrototype-0.8.96.zip",
+    "asset_filename": "CMS18TurboPrototype-0.8.96.zip",
+    "bytes": 2402777,
+    "sha256": "fcdf1549786933097a592f702f056190a854d428d523b0c5a096c7b6d957ec2c",
+    "location": "repository",
+    "download": "patches/CMS18TurboPrototype-0.8.96.zip",
+    "description": "Disables ECU Lab entry points and expands dependency diagnostics."
+  },
+  {
+    "version": "0.9.0",
+    "original_filename": "CMS18-ProCharger-P1X-0.9.0.zip",
+    "asset_filename": "CMS18-ProCharger-P1X-0.9.0.zip",
+    "bytes": 954989,
+    "sha256": "f5a3db803c86932540e029a8c68d84fc4c2d9c1ff96054c47ab4b72754e07abf",
+    "location": "repository",
+    "download": "patches/CMS18-ProCharger-P1X-0.9.0.zip",
+    "description": "ProCharger-only transition: retires turbo, Roots, and ECU Lab features."
+  },
+  {
+    "version": "0.9.1",
+    "original_filename": "CMS18-ProCharger-P1X-0.9.1.zip",
+    "asset_filename": "CMS18-ProCharger-P1X-0.9.1.zip",
+    "bytes": 466354,
+    "sha256": "11c5261b1f735992122dd37eed942cc942e368338181508eaf6a45398b0d6818",
+    "location": "repository",
+    "download": "patches/CMS18-ProCharger-P1X-0.9.1.zip",
+    "description": "P-1X visual redesign review candidate."
+  },
+  {
+    "version": "0.9.2",
+    "original_filename": "CMS18-ProCharger-P1X-0.9.2.zip",
+    "asset_filename": "CMS18-ProCharger-P1X-0.9.2.zip",
+    "bytes": 251857,
+    "sha256": "c53d4d8de07632798f71d819fbf62de90f9dafadc2d8e3fa7dbf71c28281240b",
+    "location": "repository",
+    "download": "patches/CMS18-ProCharger-P1X-0.9.2.zip",
+    "description": "Visual, selection, purchase, native-installation, and removal refinements."
+  },
+  {
+    "version": "0.9.3",
+    "original_filename": "CMS18 ProCharger P-1X 0.9.3.zip",
+    "asset_filename": "CMS18-ProCharger-P1X-0.9.3.zip",
+    "bytes": 867348,
+    "sha256": "43920db97acd1390b88cc8434968b531d284523d23f379724db895152a32df13",
+    "location": "repository",
+    "download": "patches/CMS18-ProCharger-P1X-0.9.3.zip",
+    "description": "P-1X model/selection integration and diagnostics snapshot."
+  },
+  {
+    "version": "0.9.4",
+    "original_filename": "CMS18 ProCharger P-1X 0.9.4.zip",
+    "asset_filename": "CMS18-ProCharger-P1X-0.9.4.zip",
+    "bytes": 474314,
+    "sha256": "3463ef57a73292963fcb433f32d34350e82af0fc920a11abf122371a2228f7cf",
+    "location": "repository",
+    "download": "patches/CMS18-ProCharger-P1X-0.9.4.zip",
+    "description": "Removal bookkeeping and two-pulley belt changes."
+  },
+  {
+    "version": "0.9.5",
+    "original_filename": "CMS18 ProCharger P-1X 0.9.5.zip",
+    "asset_filename": "CMS18-ProCharger-P1X-0.9.5.zip",
+    "bytes": 472790,
+    "sha256": "83ab31a487569ce46f2749d1686c3ac5699e04c1d9659641509dd458f50bf474",
+    "location": "repository",
+    "download": "patches/CMS18-ProCharger-P1X-0.9.5.zip",
+    "description": "Native inventory picker and dedicated ProCharger radial actions."
+  },
+  {
+    "version": "0.9.6",
+    "original_filename": "CMS18 ProCharger P-1X 0.9.6 Offline.zip",
+    "asset_filename": "CMS18-ProCharger-P1X-0.9.6.zip",
+    "bytes": 473734,
+    "sha256": "b5852efa01038fab32cf5f6e8cae013305b3e452b2b4227c54d64f309abbee4c",
+    "location": "repository",
+    "download": "patches/CMS18-ProCharger-P1X-0.9.6.zip",
+    "description": "Engine-transfer ownership and installed-kit tracking; radial-description follow-up."
+  },
+  {
+    "version": "0.9.7",
+    "original_filename": "CMS18 ProCharger P-1X 0.9.7 Offline.zip",
+    "asset_filename": "CMS18-ProCharger-P1X-0.9.7.zip",
+    "bytes": 473556,
+    "sha256": "de43400acb63519fe71aa1a28f3414e17eb470ed29279aeb832fa4bbc6a0ee2a",
+    "location": "repository",
+    "download": "patches/CMS18-ProCharger-P1X-0.9.7.zip",
+    "description": "Refreshes native hover highlighting after installation."
+  },
+  {
+    "version": "0.9.8",
+    "original_filename": "CMS18 ProCharger P-1X 0.9.8 Offline.zip",
+    "asset_filename": "CMS18-ProCharger-P1X-0.9.8.zip",
+    "bytes": 472871,
+    "sha256": "04b30cbefd642d3b855b387b4a74cd2976da973909bfc559817f5c52d2ac5212",
+    "location": "repository",
+    "download": "patches/CMS18-ProCharger-P1X-0.9.8.zip",
+    "description": "Scopes measured-engine and chart dyno sampling to the fitted car."
+  },
+  {
+    "version": "0.9.9",
+    "original_filename": "CMS18 ProCharger P-1X 0.9.9.zip",
+    "asset_filename": "CMS18-ProCharger-P1X-0.9.9.zip",
+    "bytes": 473630,
+    "sha256": "68a0ebc8946596d6f60a2b3335aebc5ddefe8b0dd1780e4de496c2e85cc15755",
+    "location": "repository",
+    "download": "patches/CMS18-ProCharger-P1X-0.9.9.zip",
+    "description": "Applies the P-1X hover outline from the actual raycast hit."
+  },
+  {
+    "version": "0.9.10",
+    "original_filename": "CMS18 ProCharger P-1X 0.9.10.zip",
+    "asset_filename": "CMS18-ProCharger-P1X-0.9.10.zip",
+    "bytes": 477027,
+    "sha256": "b7ac6d0f16930c270b2456ea8998e220b34b76fb4241cc18b7ebfbbf2abcf4df",
+    "location": "repository",
+    "download": "patches/CMS18-ProCharger-P1X-0.9.10.zip",
+    "description": "Adds tensioner-aware belt routing and checks against folded/intersecting paths."
+  },
+  {
+    "version": "0.9.11",
+    "original_filename": "CMS18 ProCharger P-1X 0.9.11.zip",
+    "asset_filename": "CMS18-ProCharger-P1X-0.9.11.zip",
+    "bytes": 530802,
+    "sha256": "916d4d034f461011d381b3ce0a7bd76ad8557cee2acdff0cf0d58ad8390ab265",
+    "location": "repository",
+    "download": "patches/CMS18-ProCharger-P1X-0.9.11.zip",
+    "description": "Models 15% larger oil-fill capacity for the fitted P-1X circuit."
+  },
+  {
+    "version": "0.9.12",
+    "original_filename": "CMS18 ProCharger P-1X 0.9.12.zip",
+    "asset_filename": "CMS18-ProCharger-P1X-0.9.12.zip",
+    "bytes": 531016,
+    "sha256": "032f89530daf5ca5d04830f7fdcf244b7655fa2747482ee9779561fcfe98d974",
+    "location": "repository",
+    "download": "patches/CMS18-ProCharger-P1X-0.9.12.zip",
+    "description": "Adds a dedicated native mounting-bolt removal flow."
+  },
+  {
+    "version": "0.9.13",
+    "original_filename": "CMS18 ProCharger P-1X 0.9.13.zip",
+    "asset_filename": "CMS18-ProCharger-P1X-0.9.13.zip",
+    "bytes": 532423,
+    "sha256": "3a9083288a366d530e8f6ec55d6f86ce555ed41e8ab62a49efc032cbb75a135a",
+    "location": "repository",
+    "download": "patches/CMS18-ProCharger-P1X-0.9.13.zip",
+    "description": "Coordinates bolt completion, removal animation, and inventory return."
+  },
+  {
+    "version": "0.9.14",
+    "original_filename": "CMS18 ProCharger P-1X 0.9.14.zip",
+    "asset_filename": "CMS18-ProCharger-P1X-0.9.14.zip",
+    "bytes": 529938,
+    "sha256": "f516678f216840c509e1474be09d9d6527b8bbfa11ac0bf85f00856f14873417",
+    "location": "repository",
+    "download": "patches/CMS18-ProCharger-P1X-0.9.14.zip",
+    "description": "Expands flange removal to four bolts and refines bolt travel/hit areas."
+  },
+  {
+    "version": "0.9.15",
+    "original_filename": "CMS18 ProCharger P-1X 0.9.15.zip",
+    "asset_filename": "CMS18-ProCharger-P1X-0.9.15.zip",
+    "bytes": 530236,
+    "sha256": "ecef141b371dc1a6e0ee085b7985b78de417c247c45330bba3c8d8e0684e3974",
+    "location": "repository",
+    "download": "patches/CMS18-ProCharger-P1X-0.9.15.zip",
+    "description": "Adds native radial boost presets and incremental setup changes."
+  },
+  {
+    "version": "0.9.16",
+    "original_filename": "CMS18 ProCharger P-1X 0.9.16.zip",
+    "asset_filename": "CMS18-ProCharger-P1X-0.9.16.zip",
+    "bytes": 530404,
+    "sha256": "1254d92023a6496c806466d0908f3f3f0fbb637cab41d8cd52cdf6e78a497768",
+    "location": "repository",
+    "download": "patches/CMS18-ProCharger-P1X-0.9.16.zip",
+    "description": "Refines gain from usable torque and charge-to-torque scaling."
+  },
+  {
+    "version": "0.9.17",
+    "original_filename": "CMS18 ProCharger P-1X 0.9.17.zip",
+    "asset_filename": "CMS18-ProCharger-P1X-0.9.17.zip",
+    "bytes": 522072,
+    "sha256": "00e1a7c5cb42caee17c9227a04a98393e111098587ed275785be399a7658ddfe",
+    "location": "repository",
+    "download": "patches/CMS18-ProCharger-P1X-0.9.17.zip",
+    "description": "Uses a dedicated 19 mm belt, timing-drive detection, and mesh cleanup."
+  },
+  {
+    "version": "0.9.18",
+    "original_filename": "CMS18 ProCharger P-1X 0.9.18.zip",
+    "asset_filename": "CMS18-ProCharger-P1X-0.9.18.zip",
+    "bytes": 523711,
+    "sha256": "b245261304cb7003f23b2476386a6df4b2784df735efd0c1c66afaa5a5a99a0d",
+    "location": "repository",
+    "download": "patches/CMS18-ProCharger-P1X-0.9.18.zip",
+    "description": "Adds separate coaxial crank/roller tracks for factory-belt clearance."
+  },
+  {
+    "version": "0.9.19",
+    "original_filename": "CMS18 ProCharger P-1X 0.9.19.zip",
+    "asset_filename": "CMS18-ProCharger-P1X-0.9.19.zip",
+    "bytes": 524326,
+    "sha256": "7e1b2235d1b761184f97ea5debfdfdd8b6278de05dafd86fd4131136b8a3827d",
+    "location": "repository",
+    "download": "patches/CMS18-ProCharger-P1X-0.9.19.zip",
+    "description": "Refines I6 water-pump routing and charger lateral placement."
+  },
+  {
+    "version": "0.9.20",
+    "original_filename": "CMS18 ProCharger P-1X 0.9.20.zip",
+    "asset_filename": "CMS18-ProCharger-P1X-0.9.20.zip",
+    "bytes": 527666,
+    "sha256": "eeaf413bfb5cd39e8eff67b8c5a73fe93ed50910563b2bdba62227d6c07a535f",
+    "location": "repository",
+    "download": "patches/CMS18-ProCharger-P1X-0.9.20.zip",
+    "description": "Aligns the dedicated drive across 22 base-game catalog engines; adds fitment CSV."
+  }
+]

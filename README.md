@@ -1,94 +1,101 @@
 <div align="center">
 
-# CMS Universal Induction Mod
+# CMS 2018 ProCharger P-1X
 
-### Build your boost. Choose your setup.
+### A focused build. A dedicated drive. Centrifugal boost.
 
-**Turbo · Roots Supercharger · ProCharger P-1X**  
-Custom forced induction for **Car Mechanic Simulator 2018**.
+**ProCharger-only development mod for Car Mechanic Simulator 2018**
 
-![Game: CMS 2018](https://img.shields.io/badge/CAR_MECHANIC_SIMULATOR-2018-252b36?style=for-the-badge)
-![Version: 0.8.87](https://img.shields.io/badge/VERSION-0.8.87-00a8a8?style=for-the-badge)
-![Status: pre-release](https://img.shields.io/badge/STATUS-PRE--RELEASE-f5a623?style=for-the-badge)
-
-**[↓ Download v0.8.87](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.87)** · **[All releases](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases)** · **[Report a bug](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/issues)**
-
----
+**[Download v0.9.20](patches/CMS18-ProCharger-P1X-0.9.20.zip)** · **[Patch catalog](PATCHES.md)** · **[Report an issue](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/issues)**
 
 </div>
 
-## More ways to build your engine
+CMS 2018 ProCharger P-1X adds standard and high-boost centrifugal-supercharger kits to the garage, with shop integration, native installation and removal flows, a custom P-1X visual, a dedicated belt drive, and modeled boost and dyno behavior.
 
-Bring custom forced-induction setups into your CMS 2018 garage. Choose an induction type on the engine stand, experiment with boost and turbo sizing, and fit a custom setup to your build.
+**The active project is now ProCharger-only.** The mod's turbocharger, Roots-supercharger, and ECU Lab features were retired in the 0.9 series. Older packages remain available as historical development snapshots; their features and test records do not describe the current build. The repository URL and `CMS18TurboPrototype.dll` filename are retained for continuity.
 
-This BepInEx/Harmony mod combines induction selection, shop integration, visual components, engine-transfer handling, and estimated boost/dyno behavior. It is actively being developed toward **v1.0**; models, fitment, and gameplay behavior are still being refined.
+## Latest: 0.9.20
 
-| TURBO | ROOTS SUPERCHARGER | PROCHARGER P-1X |
-| :--- | :--- | :--- |
-| Selectable **35–88 mm** inducer tiers | A Roots-style induction option | Custom centrifugal-supercharger model |
-| Estimated size-dependent spool, flow and boost | Uses copied native CMS visual assets | Pulley, belt, bracket, intake hose and charge-pipe visuals |
-| Bounded compressor and charge-air calculations | Side-mounted visual setup under development | Standard and **32 PSI** shop variants |
+The latest supplied package focuses on the P-1X drive across **22 engines identified as base-game entries in the CMS 2018 Engine Shop catalog**:
 
-## Inside the mod
+- A dedicated **19 mm drive belt**, aligned to each crankshaft axis.
+- Routing outboard of the factory belts, with a separate running surface at a factory guide or water-pump pulley.
+- Engine-specific placement adjustments, including lateral clearance for stock supercharged V8 layouts.
+- An included [engine fitment table](docs/Engine%20fitment.csv) recording the route and measured planning clearances.
 
-- **Engine-stand selection** — choose an induction setup through the “Add forced induction” radial-menu action.
-- **Garage visuals** — Turbo, Roots and P-1X setups, with ongoing placement and transfer fixes.
-- **Shop integration** — standard P-1X in Main Shop at **$12,500** and high-boost P-1X in Tuning Shop at **$24,900**.
-- **Boost and sizing controls** — turbo tiers from **35, 45, 55, 62, 67, 76 to 88 mm**, with saved settings.
-- **Estimated performance** — modeled spool, airflow, compressor efficiency and charge-air effects for the existing dyno path.
-- **Mods menu** — an in-game page for loaded BepInEx plugins.
+The package author reports checks using stock engine-prefab mesh bounds and the compiled belt planner on fully assembled stock engines. **These are offline fitment checks: live engine-stand interaction and clearance inside individual car bodies have not been verified across all 22 engines.** This import did not run the game or rebuild the plugin.
 
-> **Development build:** Features above are implemented prototype systems. Compatibility and behavior vary by engine and patch; offline checks do not establish that every feature works in-game.
+## What the current mod includes
 
-## Get started
+| System | Current scope |
+| --- | --- |
+| Kits | Standard P-1X and P-1X High-Boost, registered with CMS shops. |
+| Installation | Engine-stand actions and the native inventory selector; a purchased, owned kit is required. |
+| Removal | Four P-1X flange bolts and a removal animation in the current source. |
+| Boost setup | Native radial controls, with targets bounded by the installed kit's rating. |
+| Presentation | Custom P-1X model, pulley/belt geometry, hover highlighting, and boost/vacuum display. |
+| Performance | P-1X-specific centrifugal calculations and scoped dyno integration; values are game-model estimates. |
+| Persistence | Existing plugin identity and part IDs retained, with engine-transfer and installed-kit tracking. |
 
-1. **Download the mod ZIP** from [v0.8.87](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.87). Choose **CMS18TurboPrototype-0.8.87.zip** under Assets.
-2. **Close CMS 2018** and back up your existing plugin and save profile before trying a pre-release.
-3. With a working **BepInEx** installation for CMS 2018, extract the package and place `CMS18TurboPrototype.dll` in `BepInEx/plugins/`. Follow the package report for any included asset/setup requirements. Replace the previous plugin rather than loading duplicate versions.
-4. Launch the game, confirm the plugin version in `BepInEx/LogOutput.log`, and try the engine-stand induction chooser.
+The current source also models a 15% larger oil-fill capacity for the fitted P-1X circuit. This is game behavior implemented by the mod, not a real-world installation specification.
 
-The release ZIP includes the versioned package. Its README and report contain patch-specific details; GitHub’s automatic **Source code** archives are repository snapshots, not the packaged mod download.
+## Kits and shops
 
-## Latest pit stop · v0.8.87
+| Kit | Shop | Base price | Modeled boost-target ceiling |
+| --- | --- | ---: | ---: |
+| ProCharger P-1X | Main Shop | $12,500 | 20 PSI |
+| ProCharger P-1X High-Boost | Tuning Shop | $24,900 | 32 PSI |
 
-**ProCharger shop-listing repair.** Custom catalog entries now use the base-game product marker so both P-1X variants can pass the shop’s DLC visibility check.
+Targets are settings, not guaranteed delivered pressure or power. Results depend on the modeled operating conditions and game integration. The mod does not claim validated real-world compressor-map accuracy or universal vehicle compatibility.
 
-Build and offline validation passed. **Live shop visibility, buying and removal still need a retest.** Visible bolt heads are decorative; the current mount uses the part’s **one-action take-off prompt**.
+## Installation and updating
 
-[Read the release notes →](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.87)
+1. Close Car Mechanic Simulator 2018. Use a working BepInEx installation with Harmony (`0Harmony.dll`).
+2. Download [**CMS18-ProCharger-P1X-0.9.20.zip**](patches/CMS18-ProCharger-P1X-0.9.20.zip), then use GitHub’s **Download raw file** button.
+3. Extract the ZIP. Copy **only `CMS18TurboPrototype.dll`** into the game's `BepInEx/plugins/` folder.
+4. Replace the older copy. Keep any rollback DLL outside `BepInEx/plugins/` so two versions cannot load together.
+5. Launch CMS 2018 and check `BepInEx/LogOutput.log` for **CMS 2018 ProCharger P-1X 0.9.20** and any patch errors.
+6. Buy a P-1X kit in its shop, place an engine on the stand, and use the ProCharger radial actions and native inventory picker to install it.
 
-## Compatibility & current limits
+```text
+Car Mechanic Simulator 2018/
+└── BepInEx/
+    └── plugins/
+        └── CMS18TurboPrototype.dll
+```
 
-| Area | Current status |
-| :--- | :--- |
-| Game | **Car Mechanic Simulator 2018** |
-| Release channel | **Pre-release / in development** |
-| Engine coverage | Universal fitment is the goal; broad engine compatibility is still being verified |
-| DLC cars | **Not supported at present**; the developer does not own all DLCs for testing |
-| 3D models | Work in progress; appearance and fitment are not final |
-| Performance numbers | Game-model estimates, not measured real-world compressor maps |
-| Latest gameplay validation | Shop, removal, dyno and save/load behavior still require live checks |
+The model is embedded by the build; source files and loose models do not belong in the plugins folder. Choose the named ZIP in patches/ for the plugin and editable package source. A repository ZIP contains the full archive too, so downloading the individual package is simpler.
 
-## Road to v1.0
+Legacy non-ProCharger mode values are migrated to Off in the current source. Old turbo/Roots identifiers remain only for recognizing legacy saved custom parts, not as supported shop or performance options. Preserve a backup of an older save before moving a historical development build to the current version.
 
-The next steps are to refine what is already in the garage and build out the larger induction system:
+## Source and building
 
-- Improve fitment, engine transfer, selection and removal across more engines.
-- Verify shop visibility, dyno behavior, save/load and isolation between cars.
-- Build a physical turbo component/dependency chain and supporting hardware.
-- Expand configurations, engine coverage, durability and persistence.
+The latest mod ZIP includes `src`, `model`, `build.ps1`, the supplied DLL, and its original README and fitment CSV. The supplied Windows build script compiles `CMS18TurboPrototype.cs`, `ChargeAirModel.cs`, and `ProchargerMath.cs`, and embeds `model/CMS18_ProCharger_P1X.obj`.
 
-Twin, sequential, compound and twincharged setups, complete supporting-parts systems, and broad verified engine support are **not complete**. All current releases remain pre-releases.
+The script uses the .NET Framework 64-bit compiler and references your installed CMS, Unity, BepInEx, and Harmony assemblies. Its game path is currently hard-coded to the default Steam location; edit `$game` if your installation differs. From the extracted package, run:
 
-## Help shape the next patch
+```powershell
+.\build.ps1
+```
 
-Found something wrong? [Open an issue](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/issues) with the **mod version**, **engine/car**, what you expected, what happened, and steps to reproduce it. Screenshots and the relevant section of `BepInEx/LogOutput.log` help with visual and runtime bugs.
+The output goes to `build/CMS18TurboPrototype.dll`. Optional `-Install` and `-ReplaceInstalled` switches exist in the supplied script; installation checks that CMS is closed and backs up an existing DLL before replacing it when explicitly requested. Game dependencies are not bundled in this repository.
+
+## Patch history without duplicate downloads
+
+[PATCHES.md](PATCHES.md) indexes every numbered patch supplied in this import. Existing releases remain the download location for packages already published. Only the **39 missing packages** were selected for upload: stored once each in patches/, including the current 0.9.20 package.
+
+Older versions can contain retired systems and known defects. Install one complete version at a time; patch numbers here identify full packaged snapshots rather than incremental updates to apply in sequence. Read the descriptions and any included reports before using an archived build.
+
+## Compatibility and verification
+
+- **Game:** Car Mechanic Simulator 2018; supplied build tooling targets Windows.
+- **Current development version:** 0.9.20. Broad live vehicle-body fitment and engine interaction coverage remain unverified.
+- **Engine coverage:** 22 cataloged base-game engine layouts have offline drive-planner records; DLC compatibility is not established by that table.
+- **Models and performance:** still under development. Offline geometry/model checks do not prove live installation, transfer, removal, save/load, or dyno behavior.
+- **Import checks:** all 71 supplied patch ZIPs passed ZIP integrity checks. Missing-package archives are preserved byte-for-byte, with SHA-256 values recorded in [PATCH-MANIFEST.json](PATCH-MANIFEST.json).
+
+If you encounter a problem, include the version, engine/car, steps to reproduce, screenshots where relevant, and the matching section of `BepInEx/LogOutput.log` in an [issue](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/issues). Useful regression checks include buying both kits, native install/remove, all four bolts, engine transfer, per-car isolation, boost setup, and factory-versus-measured dyno output.
 
 ---
 
-<div align="center">
-
-**A garage project, still gaining boost.**  
-Built for CMS 2018 · Actively developed toward v1.0
-
-</div>
+Unofficial game mod. Not affiliated with or endorsed by the game's developers or publishers, or by ProCharger. Product names identify the modeled component.
