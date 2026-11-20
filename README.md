@@ -80,6 +80,52 @@ The script uses the .NET Framework 64-bit compiler and references your installed
 
 The output goes to `build/CMS18TurboPrototype.dll`. Optional `-Install` and `-ReplaceInstalled` switches exist in the supplied script; installation checks that CMS is closed and backs up an existing DLL before replacing it when explicitly requested. Game dependencies are not bundled in this repository.
 
+## Patch notes
+
+Release titles use their version tags. Detailed changes for the 39 recently published packages are listed below; older patch descriptions remain in the [complete patch catalog](PATCHES.md).
+
+| Version | Changes |
+| --- | --- |
+| [v0.9.20](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.20) | Aligns the dedicated drive across 22 base-game catalog engines; adds fitment CSV. |
+| [v0.9.19](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.19) | Refines I6 water-pump routing and charger lateral placement. |
+| [v0.9.18](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.18) | Adds separate coaxial crank/roller tracks for factory-belt clearance. |
+| [v0.9.17](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.17) | Uses a dedicated 19 mm belt, timing-drive detection, and mesh cleanup. |
+| [v0.9.16](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.16) | Refines gain from usable torque and charge-to-torque scaling. |
+| [v0.9.15](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.15) | Adds native radial boost presets and incremental setup changes. |
+| [v0.9.14](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.14) | Expands flange removal to four bolts and refines bolt travel/hit areas. |
+| [v0.9.13](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.13) | Coordinates bolt completion, removal animation, and inventory return. |
+| [v0.9.12](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.12) | Adds a dedicated native mounting-bolt removal flow. |
+| [v0.9.11](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.11) | Models 15% larger oil-fill capacity for the fitted P-1X circuit. |
+| [v0.9.10](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.10) | Adds tensioner-aware belt routing and checks against folded/intersecting paths. |
+| [v0.9.9](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.9) | Applies the P-1X hover outline from the actual raycast hit. |
+| [v0.9.8](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.8) | Scopes measured-engine and chart dyno sampling to the fitted car. |
+| [v0.9.7](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.7) | Refreshes native hover highlighting after installation. |
+| [v0.9.6](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.6) | Engine-transfer ownership and installed-kit tracking; radial-description follow-up. |
+| [v0.9.5](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.5) | Native inventory picker and dedicated ProCharger radial actions. |
+| [v0.9.4](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.4) | Removal bookkeeping and two-pulley belt changes. |
+| [v0.9.3](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.3) | P-1X model/selection integration and diagnostics snapshot. |
+| [v0.9.2](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.2) | Visual, selection, purchase, native-installation, and removal refinements. |
+| [v0.9.1](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.1) | P-1X visual redesign review candidate. |
+| [v0.9.0](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.0) | ProCharger-only transition: retires turbo, Roots, and ECU Lab features. |
+| [v0.8.96](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.96) | Disables ECU Lab entry points and expands dependency diagnostics. |
+| [v0.8.95](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.95) | Historical automatic engine-identity display in the isolated sandbox. |
+| [v0.8.94](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.94) | Preserves the car-parts radial menu and opens the historical sandbox with F9. |
+| [v0.8.93](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.93) | Historical standalone turbo dependency validator; not native installation support. |
+| [v0.8.92](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.92) | Restores native Tune parts and separates the historical ECU Lab action. |
+| [v0.8.91](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.91) | Historical Tune parts interception; superseded by native-route restoration. |
+| [v0.8.90](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.90) | Historical ECU Lab radial action and profile unlock. |
+| [v0.8.89](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.89) | Historical isolated ECU Lab simulation-equation port. |
+| [v0.8.88](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.88) | Historical ECU calibration schema and isolated map-sampling foundations. |
+| [v0.8.64](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.64) | Repairs constructor lookup and isolates hook-registration failures; later Mono follow-up needed. |
+| [v0.8.63](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.63) | Attempts measured-helper dyno scoping; constructor-hook failure later identified. |
+| [v0.8.62](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.62) | Removes a dyno controller prerequisite; factory-output contamination later reported. |
+| [v0.8.61](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.61) | Historical dyno-spec boost experiment; later scoping defects reported. |
+| [v0.8.60](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.60) | Uses visible renderer bounds and deeper intake-side insertion. |
+| [v0.8.59](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.59) | Further reduces the outlet handle and pipe spacing. |
+| [v0.8.58](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.58) | Shortens the initial outlet handle for R4 pipe fitment. |
+| [v0.8.55](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.55) | Routes the charge pipe outboard while preserving outlet direction. |
+| [v0.8.54](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.54) | Refines intake target selection and charge-pipe endpoints. |
+
 ## Patch history without duplicate downloads
 
 [PATCHES.md](PATCHES.md) indexes every numbered patch supplied in this import. Existing releases remain the download location for packages already published. Only the **39 missing packages** were selected for upload: published as individual versioned GitHub Releases, including the current 0.9.20 package. Download ZIPs are kept in Releases; the repository contains the README, catalog, manifest, and fitment documentation.
