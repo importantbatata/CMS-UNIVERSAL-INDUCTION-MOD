@@ -6,7 +6,7 @@
 
 **ProCharger-only development mod for Car Mechanic Simulator 2018**
 
-**[Download v0.9.20](patches/CMS18-ProCharger-P1X-0.9.20.zip)** · **[Patch catalog](PATCHES.md)** · **[Report an issue](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/issues)**
+**[Download v0.9.20](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.20)** · **[Patch catalog](PATCHES.md)** · **[Report an issue](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/issues)**
 
 </div>
 
@@ -51,7 +51,7 @@ Targets are settings, not guaranteed delivered pressure or power. Results depend
 ## Installation and updating
 
 1. Close Car Mechanic Simulator 2018. Use a working BepInEx installation with Harmony (`0Harmony.dll`).
-2. Download [**CMS18-ProCharger-P1X-0.9.20.zip**](patches/CMS18-ProCharger-P1X-0.9.20.zip), then use GitHub’s **Download raw file** button.
+2. Open the [**v0.9.20 release**](https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.20) and download **CMS18-ProCharger-P1X-0.9.20.zip** under Assets.
 3. Extract the ZIP. Copy **only `CMS18TurboPrototype.dll`** into the game's `BepInEx/plugins/` folder.
 4. Replace the older copy. Keep any rollback DLL outside `BepInEx/plugins/` so two versions cannot load together.
 5. Launch CMS 2018 and check `BepInEx/LogOutput.log` for **CMS 2018 ProCharger P-1X 0.9.20** and any patch errors.
@@ -64,7 +64,7 @@ Car Mechanic Simulator 2018/
         └── CMS18TurboPrototype.dll
 ```
 
-The model is embedded by the build; source files and loose models do not belong in the plugins folder. Choose the named ZIP in patches/ for the plugin and editable package source. A repository ZIP contains the full archive too, so downloading the individual package is simpler.
+The model is embedded by the build; source files and loose models do not belong in the plugins folder. Choose the named mod ZIP under release **Assets** for the plugin and editable package source. GitHub’s automatic **Source code** archives are repository snapshots, not the version-specific mod package.
 
 Legacy non-ProCharger mode values are migrated to Off in the current source. Old turbo/Roots identifiers remain only for recognizing legacy saved custom parts, not as supported shop or performance options. Preserve a backup of an older save before moving a historical development build to the current version.
 
@@ -82,9 +82,9 @@ The output goes to `build/CMS18TurboPrototype.dll`. Optional `-Install` and `-Re
 
 ## Patch history without duplicate downloads
 
-[PATCHES.md](PATCHES.md) indexes every numbered patch supplied in this import. Existing releases remain the download location for packages already published. Only the **39 missing packages** were selected for upload: stored once each in patches/, including the current 0.9.20 package.
+[PATCHES.md](PATCHES.md) indexes every numbered patch supplied in this import. Existing releases remain the download location for packages already published. Only the **39 missing packages** were selected for upload: published as individual versioned GitHub Releases, including the current 0.9.20 package. Download ZIPs are kept in Releases; the repository contains the README, catalog, manifest, and fitment documentation.
 
-Older versions can contain retired systems and known defects. Install one complete version at a time; patch numbers here identify full packaged snapshots rather than incremental updates to apply in sequence. Read the descriptions and any included reports before using an archived build.
+All releases are marked as development pre-releases. Older versions can contain retired systems and known defects. Install one complete version at a time; patch numbers here identify full packaged snapshots rather than incremental updates to apply in sequence. Read the descriptions and any included reports before using an archived build.
 
 ## Compatibility and verification
 

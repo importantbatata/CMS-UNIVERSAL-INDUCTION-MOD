@@ -75,9 +75,10 @@
     "asset_filename": "CMS18TurboPrototype-0.8.54.zip",
     "bytes": 3172672,
     "sha256": "637c37c40a51fd58fba5ea7045c0de5831f7cc6e993422ecc7152f4356fd3f16",
-    "location": "repository",
-    "download": "patches/CMS18TurboPrototype-0.8.54.zip",
-    "description": "Refines intake target selection and charge-pipe endpoints."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.8.54/CMS18TurboPrototype-0.8.54.zip",
+    "description": "Refines intake target selection and charge-pipe endpoints.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.54"
   },
   {
     "version": "0.8.55",
@@ -85,9 +86,10 @@
     "asset_filename": "CMS18TurboPrototype-0.8.55.zip",
     "bytes": 3640283,
     "sha256": "11cda196bd66821383b15314dcf8bf1964bff21365e2fc05b842a0f03aed108a",
-    "location": "repository",
-    "download": "patches/CMS18TurboPrototype-0.8.55.zip",
-    "description": "Routes the charge pipe outboard while preserving outlet direction."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.8.55/CMS18TurboPrototype-0.8.55.zip",
+    "description": "Routes the charge pipe outboard while preserving outlet direction.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.55"
   },
   {
     "version": "0.8.56",
@@ -115,9 +117,10 @@
     "asset_filename": "CMS18TurboPrototype-0.8.58.zip",
     "bytes": 3153889,
     "sha256": "b3ba6031df3e79b5f5fa5f9dad1d1bd3ef02dc31e75d12bf5baa2a9e30207bba",
-    "location": "repository",
-    "download": "patches/CMS18TurboPrototype-0.8.58.zip",
-    "description": "Shortens the initial outlet handle for R4 pipe fitment."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.8.58/CMS18TurboPrototype-0.8.58.zip",
+    "description": "Shortens the initial outlet handle for R4 pipe fitment.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.58"
   },
   {
     "version": "0.8.59",
@@ -125,9 +128,10 @@
     "asset_filename": "CMS18TurboPrototype-0.8.59.zip",
     "bytes": 3153840,
     "sha256": "37e13b31d36f023a46ee739da626a2a1ce0ad0be03ccd53e262e57949c3ec9cb",
-    "location": "repository",
-    "download": "patches/CMS18TurboPrototype-0.8.59.zip",
-    "description": "Further reduces the outlet handle and pipe spacing."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.8.59/CMS18TurboPrototype-0.8.59.zip",
+    "description": "Further reduces the outlet handle and pipe spacing.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.59"
   },
   {
     "version": "0.8.60",
@@ -135,9 +139,10 @@
     "asset_filename": "CMS18TurboPrototype-0.8.60.zip",
     "bytes": 3156631,
     "sha256": "0722093dbe73fc0c76e7d100e6c4f295f35566be0577217d9d56a85f22dc1e4d",
-    "location": "repository",
-    "download": "patches/CMS18TurboPrototype-0.8.60.zip",
-    "description": "Uses visible renderer bounds and deeper intake-side insertion."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.8.60/CMS18TurboPrototype-0.8.60.zip",
+    "description": "Uses visible renderer bounds and deeper intake-side insertion.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.60"
   },
   {
     "version": "0.8.61",
@@ -145,9 +150,10 @@
     "asset_filename": "CMS18TurboPrototype-0.8.61.zip",
     "bytes": 1405720,
     "sha256": "b7e7924b04032c7bc2f93396fc856a16de73d6f5d514b9b30bc223cd615f3f1c",
-    "location": "repository",
-    "download": "patches/CMS18TurboPrototype-0.8.61.zip",
-    "description": "Historical dyno-spec boost experiment; later scoping defects reported."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.8.61/CMS18TurboPrototype-0.8.61.zip",
+    "description": "Historical dyno-spec boost experiment; later scoping defects reported.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.61"
   },
   {
     "version": "0.8.62",
@@ -155,9 +161,10 @@
     "asset_filename": "CMS18TurboPrototype-0.8.62.zip",
     "bytes": 1872651,
     "sha256": "a6946e4c5a648063ace45c494691821bd670dd5383ba0bbd754c74e51a005076",
-    "location": "repository",
-    "download": "patches/CMS18TurboPrototype-0.8.62.zip",
-    "description": "Removes a dyno controller prerequisite; factory-output contamination later reported."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.8.62/CMS18TurboPrototype-0.8.62.zip",
+    "description": "Removes a dyno controller prerequisite; factory-output contamination later reported.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.62"
   },
   {
     "version": "0.8.63",
@@ -165,9 +172,10 @@
     "asset_filename": "CMS18TurboPrototype-0.8.63.zip",
     "bytes": 2342228,
     "sha256": "76a507503527909859cfa7da98019bac0f0f6d33fcd06a5ee56094110056419d",
-    "location": "repository",
-    "download": "patches/CMS18TurboPrototype-0.8.63.zip",
-    "description": "Attempts measured-helper dyno scoping; constructor-hook failure later identified."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.8.63/CMS18TurboPrototype-0.8.63.zip",
+    "description": "Attempts measured-helper dyno scoping; constructor-hook failure later identified.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.63"
   },
   {
     "version": "0.8.64",
@@ -175,9 +183,10 @@
     "asset_filename": "CMS18TurboPrototype-0.8.64.zip",
     "bytes": 1407468,
     "sha256": "72157a42f93ab4c7db554216c1da8b122b7841d94cee7935d369dafb5a02c7f9",
-    "location": "repository",
-    "download": "patches/CMS18TurboPrototype-0.8.64.zip",
-    "description": "Repairs constructor lookup and isolates hook-registration failures; later Mono follow-up needed."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.8.64/CMS18TurboPrototype-0.8.64.zip",
+    "description": "Repairs constructor lookup and isolates hook-registration failures; later Mono follow-up needed.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.64"
   },
   {
     "version": "0.8.65",
@@ -415,9 +424,10 @@
     "asset_filename": "CMS18TurboPrototype-0.8.88.zip",
     "bytes": 2207624,
     "sha256": "df21b199ad1a80a7090d36e67a83d105ad94af473f86b65de805c06311d76649",
-    "location": "repository",
-    "download": "patches/CMS18TurboPrototype-0.8.88.zip",
-    "description": "Historical ECU calibration schema and isolated map-sampling foundations."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.8.88/CMS18TurboPrototype-0.8.88.zip",
+    "description": "Historical ECU calibration schema and isolated map-sampling foundations.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.88"
   },
   {
     "version": "0.8.89",
@@ -425,9 +435,10 @@
     "asset_filename": "CMS18TurboPrototype-0.8.89.zip",
     "bytes": 3762501,
     "sha256": "73e0c2de4fdc7992f4a66ea677fa87809aa3f001082d89f606fc3dd31b4aa7e7",
-    "location": "repository",
-    "download": "patches/CMS18TurboPrototype-0.8.89.zip",
-    "description": "Historical isolated ECU Lab simulation-equation port."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.8.89/CMS18TurboPrototype-0.8.89.zip",
+    "description": "Historical isolated ECU Lab simulation-equation port.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.89"
   },
   {
     "version": "0.8.90",
@@ -435,9 +446,10 @@
     "asset_filename": "CMS18TurboPrototype-0.8.90.zip",
     "bytes": 998026,
     "sha256": "3389395d5741e426f609c194124e8c390f9ea892370b9e2eb5280e98b58eff0a",
-    "location": "repository",
-    "download": "patches/CMS18TurboPrototype-0.8.90.zip",
-    "description": "Historical ECU Lab radial action and profile unlock."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.8.90/CMS18TurboPrototype-0.8.90.zip",
+    "description": "Historical ECU Lab radial action and profile unlock.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.90"
   },
   {
     "version": "0.8.91",
@@ -445,9 +457,10 @@
     "asset_filename": "CMS18TurboPrototype-0.8.91.zip",
     "bytes": 997969,
     "sha256": "74f30fbff30fd2fe648925d3af4181169ca7ab8b448c12cf9291c152e1c19977",
-    "location": "repository",
-    "download": "patches/CMS18TurboPrototype-0.8.91.zip",
-    "description": "Historical Tune parts interception; superseded by native-route restoration."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.8.91/CMS18TurboPrototype-0.8.91.zip",
+    "description": "Historical Tune parts interception; superseded by native-route restoration.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.91"
   },
   {
     "version": "0.8.92",
@@ -455,9 +468,10 @@
     "asset_filename": "CMS18TurboPrototype-0.8.92.zip",
     "bytes": 2241626,
     "sha256": "7de7913aa9694c345c77aa3e17f013ca8b19299bc6f70e3b05abc7e22033acd0",
-    "location": "repository",
-    "download": "patches/CMS18TurboPrototype-0.8.92.zip",
-    "description": "Restores native Tune parts and separates the historical ECU Lab action."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.8.92/CMS18TurboPrototype-0.8.92.zip",
+    "description": "Restores native Tune parts and separates the historical ECU Lab action.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.92"
   },
   {
     "version": "0.8.93",
@@ -465,9 +479,10 @@
     "asset_filename": "CMS18TurboPrototype-0.8.93.zip",
     "bytes": 2259855,
     "sha256": "6b97bb0a1292f8052dccfa268840f05b8f1461c2bbe7243134ac2ee8f4425802",
-    "location": "repository",
-    "download": "patches/CMS18TurboPrototype-0.8.93.zip",
-    "description": "Historical standalone turbo dependency validator; not native installation support."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.8.93/CMS18TurboPrototype-0.8.93.zip",
+    "description": "Historical standalone turbo dependency validator; not native installation support.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.93"
   },
   {
     "version": "0.8.94",
@@ -475,9 +490,10 @@
     "asset_filename": "CMS18TurboPrototype-0.8.94.zip",
     "bytes": 2394707,
     "sha256": "ae6f047999cd7c1fcf870a45007d73a24a8ba7207c7d0c336105a7cb8c713402",
-    "location": "repository",
-    "download": "patches/CMS18TurboPrototype-0.8.94.zip",
-    "description": "Preserves the car-parts radial menu and opens the historical sandbox with F9."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.8.94/CMS18TurboPrototype-0.8.94.zip",
+    "description": "Preserves the car-parts radial menu and opens the historical sandbox with F9.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.94"
   },
   {
     "version": "0.8.95",
@@ -485,9 +501,10 @@
     "asset_filename": "CMS18TurboPrototype-0.8.95.zip",
     "bytes": 2403802,
     "sha256": "6a10cbaab77fc4a336483f88e64d51fe9cffa845094f2fd189ea512f71c60dab",
-    "location": "repository",
-    "download": "patches/CMS18TurboPrototype-0.8.95.zip",
-    "description": "Historical automatic engine-identity display in the isolated sandbox."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.8.95/CMS18TurboPrototype-0.8.95.zip",
+    "description": "Historical automatic engine-identity display in the isolated sandbox.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.95"
   },
   {
     "version": "0.8.96",
@@ -495,9 +512,10 @@
     "asset_filename": "CMS18TurboPrototype-0.8.96.zip",
     "bytes": 2402777,
     "sha256": "fcdf1549786933097a592f702f056190a854d428d523b0c5a096c7b6d957ec2c",
-    "location": "repository",
-    "download": "patches/CMS18TurboPrototype-0.8.96.zip",
-    "description": "Disables ECU Lab entry points and expands dependency diagnostics."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.8.96/CMS18TurboPrototype-0.8.96.zip",
+    "description": "Disables ECU Lab entry points and expands dependency diagnostics.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.8.96"
   },
   {
     "version": "0.9.0",
@@ -505,9 +523,10 @@
     "asset_filename": "CMS18-ProCharger-P1X-0.9.0.zip",
     "bytes": 954989,
     "sha256": "f5a3db803c86932540e029a8c68d84fc4c2d9c1ff96054c47ab4b72754e07abf",
-    "location": "repository",
-    "download": "patches/CMS18-ProCharger-P1X-0.9.0.zip",
-    "description": "ProCharger-only transition: retires turbo, Roots, and ECU Lab features."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.9.0/CMS18-ProCharger-P1X-0.9.0.zip",
+    "description": "ProCharger-only transition: retires turbo, Roots, and ECU Lab features.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.0"
   },
   {
     "version": "0.9.1",
@@ -515,9 +534,10 @@
     "asset_filename": "CMS18-ProCharger-P1X-0.9.1.zip",
     "bytes": 466354,
     "sha256": "11c5261b1f735992122dd37eed942cc942e368338181508eaf6a45398b0d6818",
-    "location": "repository",
-    "download": "patches/CMS18-ProCharger-P1X-0.9.1.zip",
-    "description": "P-1X visual redesign review candidate."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.9.1/CMS18-ProCharger-P1X-0.9.1.zip",
+    "description": "P-1X visual redesign review candidate.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.1"
   },
   {
     "version": "0.9.2",
@@ -525,9 +545,10 @@
     "asset_filename": "CMS18-ProCharger-P1X-0.9.2.zip",
     "bytes": 251857,
     "sha256": "c53d4d8de07632798f71d819fbf62de90f9dafadc2d8e3fa7dbf71c28281240b",
-    "location": "repository",
-    "download": "patches/CMS18-ProCharger-P1X-0.9.2.zip",
-    "description": "Visual, selection, purchase, native-installation, and removal refinements."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.9.2/CMS18-ProCharger-P1X-0.9.2.zip",
+    "description": "Visual, selection, purchase, native-installation, and removal refinements.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.2"
   },
   {
     "version": "0.9.3",
@@ -535,9 +556,10 @@
     "asset_filename": "CMS18-ProCharger-P1X-0.9.3.zip",
     "bytes": 867348,
     "sha256": "43920db97acd1390b88cc8434968b531d284523d23f379724db895152a32df13",
-    "location": "repository",
-    "download": "patches/CMS18-ProCharger-P1X-0.9.3.zip",
-    "description": "P-1X model/selection integration and diagnostics snapshot."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.9.3/CMS18-ProCharger-P1X-0.9.3.zip",
+    "description": "P-1X model/selection integration and diagnostics snapshot.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.3"
   },
   {
     "version": "0.9.4",
@@ -545,9 +567,10 @@
     "asset_filename": "CMS18-ProCharger-P1X-0.9.4.zip",
     "bytes": 474314,
     "sha256": "3463ef57a73292963fcb433f32d34350e82af0fc920a11abf122371a2228f7cf",
-    "location": "repository",
-    "download": "patches/CMS18-ProCharger-P1X-0.9.4.zip",
-    "description": "Removal bookkeeping and two-pulley belt changes."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.9.4/CMS18-ProCharger-P1X-0.9.4.zip",
+    "description": "Removal bookkeeping and two-pulley belt changes.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.4"
   },
   {
     "version": "0.9.5",
@@ -555,9 +578,10 @@
     "asset_filename": "CMS18-ProCharger-P1X-0.9.5.zip",
     "bytes": 472790,
     "sha256": "83ab31a487569ce46f2749d1686c3ac5699e04c1d9659641509dd458f50bf474",
-    "location": "repository",
-    "download": "patches/CMS18-ProCharger-P1X-0.9.5.zip",
-    "description": "Native inventory picker and dedicated ProCharger radial actions."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.9.5/CMS18-ProCharger-P1X-0.9.5.zip",
+    "description": "Native inventory picker and dedicated ProCharger radial actions.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.5"
   },
   {
     "version": "0.9.6",
@@ -565,9 +589,10 @@
     "asset_filename": "CMS18-ProCharger-P1X-0.9.6.zip",
     "bytes": 473734,
     "sha256": "b5852efa01038fab32cf5f6e8cae013305b3e452b2b4227c54d64f309abbee4c",
-    "location": "repository",
-    "download": "patches/CMS18-ProCharger-P1X-0.9.6.zip",
-    "description": "Engine-transfer ownership and installed-kit tracking; radial-description follow-up."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.9.6/CMS18-ProCharger-P1X-0.9.6.zip",
+    "description": "Engine-transfer ownership and installed-kit tracking; radial-description follow-up.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.6"
   },
   {
     "version": "0.9.7",
@@ -575,9 +600,10 @@
     "asset_filename": "CMS18-ProCharger-P1X-0.9.7.zip",
     "bytes": 473556,
     "sha256": "de43400acb63519fe71aa1a28f3414e17eb470ed29279aeb832fa4bbc6a0ee2a",
-    "location": "repository",
-    "download": "patches/CMS18-ProCharger-P1X-0.9.7.zip",
-    "description": "Refreshes native hover highlighting after installation."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.9.7/CMS18-ProCharger-P1X-0.9.7.zip",
+    "description": "Refreshes native hover highlighting after installation.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.7"
   },
   {
     "version": "0.9.8",
@@ -585,9 +611,10 @@
     "asset_filename": "CMS18-ProCharger-P1X-0.9.8.zip",
     "bytes": 472871,
     "sha256": "04b30cbefd642d3b855b387b4a74cd2976da973909bfc559817f5c52d2ac5212",
-    "location": "repository",
-    "download": "patches/CMS18-ProCharger-P1X-0.9.8.zip",
-    "description": "Scopes measured-engine and chart dyno sampling to the fitted car."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.9.8/CMS18-ProCharger-P1X-0.9.8.zip",
+    "description": "Scopes measured-engine and chart dyno sampling to the fitted car.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.8"
   },
   {
     "version": "0.9.9",
@@ -595,9 +622,10 @@
     "asset_filename": "CMS18-ProCharger-P1X-0.9.9.zip",
     "bytes": 473630,
     "sha256": "68a0ebc8946596d6f60a2b3335aebc5ddefe8b0dd1780e4de496c2e85cc15755",
-    "location": "repository",
-    "download": "patches/CMS18-ProCharger-P1X-0.9.9.zip",
-    "description": "Applies the P-1X hover outline from the actual raycast hit."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.9.9/CMS18-ProCharger-P1X-0.9.9.zip",
+    "description": "Applies the P-1X hover outline from the actual raycast hit.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.9"
   },
   {
     "version": "0.9.10",
@@ -605,9 +633,10 @@
     "asset_filename": "CMS18-ProCharger-P1X-0.9.10.zip",
     "bytes": 477027,
     "sha256": "b7ac6d0f16930c270b2456ea8998e220b34b76fb4241cc18b7ebfbbf2abcf4df",
-    "location": "repository",
-    "download": "patches/CMS18-ProCharger-P1X-0.9.10.zip",
-    "description": "Adds tensioner-aware belt routing and checks against folded/intersecting paths."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.9.10/CMS18-ProCharger-P1X-0.9.10.zip",
+    "description": "Adds tensioner-aware belt routing and checks against folded/intersecting paths.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.10"
   },
   {
     "version": "0.9.11",
@@ -615,9 +644,10 @@
     "asset_filename": "CMS18-ProCharger-P1X-0.9.11.zip",
     "bytes": 530802,
     "sha256": "916d4d034f461011d381b3ce0a7bd76ad8557cee2acdff0cf0d58ad8390ab265",
-    "location": "repository",
-    "download": "patches/CMS18-ProCharger-P1X-0.9.11.zip",
-    "description": "Models 15% larger oil-fill capacity for the fitted P-1X circuit."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.9.11/CMS18-ProCharger-P1X-0.9.11.zip",
+    "description": "Models 15% larger oil-fill capacity for the fitted P-1X circuit.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.11"
   },
   {
     "version": "0.9.12",
@@ -625,9 +655,10 @@
     "asset_filename": "CMS18-ProCharger-P1X-0.9.12.zip",
     "bytes": 531016,
     "sha256": "032f89530daf5ca5d04830f7fdcf244b7655fa2747482ee9779561fcfe98d974",
-    "location": "repository",
-    "download": "patches/CMS18-ProCharger-P1X-0.9.12.zip",
-    "description": "Adds a dedicated native mounting-bolt removal flow."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.9.12/CMS18-ProCharger-P1X-0.9.12.zip",
+    "description": "Adds a dedicated native mounting-bolt removal flow.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.12"
   },
   {
     "version": "0.9.13",
@@ -635,9 +666,10 @@
     "asset_filename": "CMS18-ProCharger-P1X-0.9.13.zip",
     "bytes": 532423,
     "sha256": "3a9083288a366d530e8f6ec55d6f86ce555ed41e8ab62a49efc032cbb75a135a",
-    "location": "repository",
-    "download": "patches/CMS18-ProCharger-P1X-0.9.13.zip",
-    "description": "Coordinates bolt completion, removal animation, and inventory return."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.9.13/CMS18-ProCharger-P1X-0.9.13.zip",
+    "description": "Coordinates bolt completion, removal animation, and inventory return.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.13"
   },
   {
     "version": "0.9.14",
@@ -645,9 +677,10 @@
     "asset_filename": "CMS18-ProCharger-P1X-0.9.14.zip",
     "bytes": 529938,
     "sha256": "f516678f216840c509e1474be09d9d6527b8bbfa11ac0bf85f00856f14873417",
-    "location": "repository",
-    "download": "patches/CMS18-ProCharger-P1X-0.9.14.zip",
-    "description": "Expands flange removal to four bolts and refines bolt travel/hit areas."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.9.14/CMS18-ProCharger-P1X-0.9.14.zip",
+    "description": "Expands flange removal to four bolts and refines bolt travel/hit areas.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.14"
   },
   {
     "version": "0.9.15",
@@ -655,9 +688,10 @@
     "asset_filename": "CMS18-ProCharger-P1X-0.9.15.zip",
     "bytes": 530236,
     "sha256": "ecef141b371dc1a6e0ee085b7985b78de417c247c45330bba3c8d8e0684e3974",
-    "location": "repository",
-    "download": "patches/CMS18-ProCharger-P1X-0.9.15.zip",
-    "description": "Adds native radial boost presets and incremental setup changes."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.9.15/CMS18-ProCharger-P1X-0.9.15.zip",
+    "description": "Adds native radial boost presets and incremental setup changes.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.15"
   },
   {
     "version": "0.9.16",
@@ -665,9 +699,10 @@
     "asset_filename": "CMS18-ProCharger-P1X-0.9.16.zip",
     "bytes": 530404,
     "sha256": "1254d92023a6496c806466d0908f3f3f0fbb637cab41d8cd52cdf6e78a497768",
-    "location": "repository",
-    "download": "patches/CMS18-ProCharger-P1X-0.9.16.zip",
-    "description": "Refines gain from usable torque and charge-to-torque scaling."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.9.16/CMS18-ProCharger-P1X-0.9.16.zip",
+    "description": "Refines gain from usable torque and charge-to-torque scaling.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.16"
   },
   {
     "version": "0.9.17",
@@ -675,9 +710,10 @@
     "asset_filename": "CMS18-ProCharger-P1X-0.9.17.zip",
     "bytes": 522072,
     "sha256": "00e1a7c5cb42caee17c9227a04a98393e111098587ed275785be399a7658ddfe",
-    "location": "repository",
-    "download": "patches/CMS18-ProCharger-P1X-0.9.17.zip",
-    "description": "Uses a dedicated 19 mm belt, timing-drive detection, and mesh cleanup."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.9.17/CMS18-ProCharger-P1X-0.9.17.zip",
+    "description": "Uses a dedicated 19 mm belt, timing-drive detection, and mesh cleanup.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.17"
   },
   {
     "version": "0.9.18",
@@ -685,9 +721,10 @@
     "asset_filename": "CMS18-ProCharger-P1X-0.9.18.zip",
     "bytes": 523711,
     "sha256": "b245261304cb7003f23b2476386a6df4b2784df735efd0c1c66afaa5a5a99a0d",
-    "location": "repository",
-    "download": "patches/CMS18-ProCharger-P1X-0.9.18.zip",
-    "description": "Adds separate coaxial crank/roller tracks for factory-belt clearance."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.9.18/CMS18-ProCharger-P1X-0.9.18.zip",
+    "description": "Adds separate coaxial crank/roller tracks for factory-belt clearance.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.18"
   },
   {
     "version": "0.9.19",
@@ -695,9 +732,10 @@
     "asset_filename": "CMS18-ProCharger-P1X-0.9.19.zip",
     "bytes": 524326,
     "sha256": "7e1b2235d1b761184f97ea5debfdfdd8b6278de05dafd86fd4131136b8a3827d",
-    "location": "repository",
-    "download": "patches/CMS18-ProCharger-P1X-0.9.19.zip",
-    "description": "Refines I6 water-pump routing and charger lateral placement."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.9.19/CMS18-ProCharger-P1X-0.9.19.zip",
+    "description": "Refines I6 water-pump routing and charger lateral placement.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.19"
   },
   {
     "version": "0.9.20",
@@ -705,8 +743,9 @@
     "asset_filename": "CMS18-ProCharger-P1X-0.9.20.zip",
     "bytes": 527666,
     "sha256": "eeaf413bfb5cd39e8eff67b8c5a73fe93ed50910563b2bdba62227d6c07a535f",
-    "location": "repository",
-    "download": "patches/CMS18-ProCharger-P1X-0.9.20.zip",
-    "description": "Aligns the dedicated drive across 22 base-game catalog engines; adds fitment CSV."
+    "location": "GitHub release",
+    "download": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/download/v0.9.20/CMS18-ProCharger-P1X-0.9.20.zip",
+    "description": "Aligns the dedicated drive across 22 base-game catalog engines; adds fitment CSV.",
+    "release": "https://github.com/importantbatata/CMS-UNIVERSAL-INDUCTION-MOD/releases/tag/v0.9.20"
   }
 ]
