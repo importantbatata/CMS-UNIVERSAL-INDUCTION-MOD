@@ -1,0 +1,18 @@
+name: Publish missing patch releases
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/publish-missing-patches.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publish and verify 39 missing release packages
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/migrate-patch-releases.py
